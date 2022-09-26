@@ -1,0 +1,24 @@
+{
+    "name": "tntlearn/payment",
+    "description": "test payment for education",
+    "autoload": {
+        "psr-4": {
+            "Tntlearn\\Payment\\": "src/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "rasool fallah",
+            "email": "fallah@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TNTLearn\\Payment\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": ">=v6.0.0"
+    }
+}
